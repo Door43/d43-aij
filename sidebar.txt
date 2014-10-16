@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aij:home|Door43 (aij)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aij|d43-aij repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aij/archive/master.zip|d43-aij.zip]]
+
+**Recent Changes**
+{{changes>ns = aij}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aij|Ethnologue data]]
+
